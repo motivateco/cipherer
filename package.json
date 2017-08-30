@@ -1,0 +1,7 @@
+{
+  "name": "cipherer",
+  "version": "1.0.0",
+  "main": "src/cipherer.js",
+  "repository": "git@github.com:motivateco/cipherer.git",
+  "author": "motivateco"
+}
